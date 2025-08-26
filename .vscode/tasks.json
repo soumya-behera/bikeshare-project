@@ -1,0 +1,16 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "Run bikeshare with sample inputs",
+        "type": "shell",
+        "command": "bash",
+        "args": [
+          "-lc",
+          "printf 'chicago\nall\nall\nno\nno\n' | \"${command:python.interpreterPath}\" \"${workspaceFolder}/bikeshare.py\""
+        ],
+        "problemMatcher": []
+      }
+    ]
+  }
+  
