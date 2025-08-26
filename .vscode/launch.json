@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Run bikeshare.py",
+        "type": "python",
+        "request": "launch",
+        "program": "${workspaceFolder}/bikeshare.py",
+        "console": "integratedTerminal",
+        "justMyCode": true,
+        "env": {
+          "PYTHONUNBUFFERED": "1"
+        }
+      }
+    ]
+  }
+  
