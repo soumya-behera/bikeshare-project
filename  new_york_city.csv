@@ -1,0 +1,4 @@
+Start Time,End Time,Trip Duration,Start Station,End Station,User Type,Gender,Birth Year
+2017-01-03 08:00:00,2017-01-03 08:22:00,1320,Broadway & E 14 St,8 Ave & W 31 St,Subscriber,Male,1990
+2017-02-20 09:15:00,2017-02-20 09:35:00,1200,5 Ave & E 88 St,Lexington Ave & E 63 St,Customer,Female,1985
+2017-03-12 18:30:00,2017-03-12 18:47:00,1020,Central Park West,W 72 St & Broadway,Subscriber,Female,1993
